@@ -1,0 +1,23 @@
+{
+  "name": "zafingerprint-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "za-fp-backend.js",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milahnmartin/zafingerprint-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milahnmartin/zafingerprint-backend/issues"
+  },
+  "homepage": "https://github.com/milahnmartin/zafingerprint-backend#readme"
+}
